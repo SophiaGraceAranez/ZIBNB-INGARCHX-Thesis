@@ -1,5 +1,5 @@
 # ==============================================================================
-#  EMPIRICAL STUDY: Beta-Negative Binomial Hurdle-INGARCHX(1,1) Model
+#  Comparison Model: Beta-Negative Binomial Hurdle-INGARCHX(1,1) Model
 #  via Two-Phase Adaptive MCMC (Chen & So, 2006)
 #  Applied to CenLuz Weekly Leptospirosis Cases
 #  Exogenous variables: Total Rainfall (X1) and Mean Temperature (X2)
